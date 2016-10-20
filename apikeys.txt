@@ -1,0 +1,7 @@
+
+	Flickr Searcher
+Key:
+1caca5c66db1f3ebbc985e5d8193cf66
+
+Secret:
+aa0073be2f4ecdbd
